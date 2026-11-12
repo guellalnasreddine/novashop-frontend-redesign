@@ -52,7 +52,9 @@ To run the project locally:
 
 1. Clone the repository:
    git clone https://github.com/guellalnasreddine/novashop-frontend-redesign.git
-2. Open the project folder.
+2. Navigate to the project directory:
+
+    cd novashop-frontend-redesign
 
 3. Open index.html in your browser or use the Live Server extension in VS Code.
 

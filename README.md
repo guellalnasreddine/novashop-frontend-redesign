@@ -45,16 +45,16 @@ NovaShop/
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/Home Page.JPG)
+![Homepage](<screenshots/Home Page.JPG>)
 
 ### Products Section
-![Products](screenshots/Products Section.JPG)
+![Products](<screenshots/Products Section.JPG>)
 
 ### Mobile View
-![Mobile View](screenshots/127.0.0.1_5500_(iPhone 16).png)
+![Mobile View](<screenshots/127.0.0.1_5500_(iPhone 16).png>)
 
 ### Contact Section
-![Contact](screenshots/Contact Section.png)
+![Contact](<screenshots/Contact Section.JPG>)
 
 ## Getting Started
 
